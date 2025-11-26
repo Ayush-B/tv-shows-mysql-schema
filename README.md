@@ -5,6 +5,6 @@ MySQL 8 database for modeling TV shows, creators, production companies, networks
 
 The full written report for this project is included in:
 
-- `docs/project_report.docx`
+- project_report.docx`
 
 It explains the ER modeling decisions, normalization process, schema breakdown, and entity relationships in detail.
